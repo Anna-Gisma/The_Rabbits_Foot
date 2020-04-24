@@ -66,8 +66,7 @@ def TheRabbitsFoot(s, encode):
         new_res_str = ''.join(new_res)
         
     return new_res_str
-    
-print(TheRabbitsFoot('шшосау ласос апссу соеаш ашилк', False))        
+           
    
                 
     
